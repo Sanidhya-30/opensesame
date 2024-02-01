@@ -39,8 +39,8 @@ Execute
 
 
 ## Prerequisites
-* C++ 14<
+* C++ : >14
 * OpenCV4
-* GCC 9.4<
+* GCC : >9.4
 
 
